@@ -1,4 +1,4 @@
-# Hola, soy Brayan👋😎
+# Hola, soy Brayan
 
 **Backend & Full-Stack Developer** · Guatemala 🇬🇹 · Ingeniería en Sistemas, UMG
 
