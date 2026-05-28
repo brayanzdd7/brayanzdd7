@@ -1,6 +1,6 @@
-# Hola, soy Brayan Camacho 👋
+# Hola, soy Brayan👋😎
 
-**Backend & Full-Stack Developer** · Guatemala 🇬🇹 · 9º Semestre — Ingeniería en Sistemas, UMG
+**Backend & Full-Stack Developer** · Guatemala 🇬🇹 · Ingeniería en Sistemas, UMG
 
 Construyo sistemas completos desde cero: bases de datos relacionales, APIs REST, frontends multi-rol y hasta plataformas IoT que controlan hardware físico real. Me especializo en backend con ASP.NET Core y Python/Django, con enfoque en seguridad (JWT, RBAC, BCrypt) y arquitectura limpia.
 
