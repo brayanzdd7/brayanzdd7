@@ -17,8 +17,6 @@
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/brayanzdd7@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brayanzdd7@gmail.com)
-[![GitHub](https://img.shields.io/badge/github.com/brayanzdd7-181717?style=flat&logo=github&logoColor=white)](https://github.com/brayanzdd7)
 
-📍 Mixco, Guatemala
 ---
 
